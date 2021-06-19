@@ -24,13 +24,19 @@ class MainActivity : AppCompatActivity() {
 
         Log.d("run-2", "test1")
 
+        Log.d("run-2", "test4")
+
         Log.d("tag", "test1")
         Log.d("tag", "test2")
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         // Inflate the menu; this adds items to the action bar if it is present.
         menuInflater.inflate(R.menu.menu_main, menu)
+        Log.d("run-2", "test2")
+        Log.d("run-2", "test3")
+        Log.d("run-2", "test5")
         return true
     }
 
