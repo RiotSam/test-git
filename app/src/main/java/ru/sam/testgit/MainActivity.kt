@@ -26,6 +26,8 @@ class MainActivity : AppCompatActivity() {
 
         Log.d("run-2", "test4")
 
+        Log.d("run-2", "test6")
+
         Log.d("tag", "test1")
         Log.d("tag", "test2")
 
