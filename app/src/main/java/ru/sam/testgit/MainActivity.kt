@@ -21,6 +21,8 @@ class MainActivity : AppCompatActivity() {
 
             Log.d("master", "test 10")
         }
+
+        Log.d("tag", "test1")
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
