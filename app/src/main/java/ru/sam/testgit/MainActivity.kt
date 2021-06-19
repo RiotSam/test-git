@@ -28,6 +28,8 @@ class MainActivity : AppCompatActivity() {
 
         Log.d("run-2", "test6")
 
+        Log.d("run-2", "test7")
+
         Log.d("tag", "test1")
         Log.d("tag", "test2")
 
@@ -39,6 +41,7 @@ class MainActivity : AppCompatActivity() {
         Log.d("run-2", "test2")
         Log.d("run-2", "test3")
         Log.d("run-2", "test5")
+        Log.d("run-2", "test8")
         return true
     }
 
